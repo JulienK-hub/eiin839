@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\jean-yves\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\julien\\.nuget\\packages\\": {},
+    "D:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jean-yves\\Source\\Repos\\eiin839\\TP1\\Echo\\ChatClient\\EchoClient.csproj",
+      "projectUniqueName": "D:\\user\\julien\\Documents\\Semestre 8\\Web\\TP1\\Echo\\ChatClient\\EchoClient.csproj",
       "projectName": "EchoClient",
-      "projectPath": "C:\\Users\\jean-yves\\Source\\Repos\\eiin839\\TP1\\Echo\\ChatClient\\EchoClient.csproj",
-      "packagesPath": "C:\\Users\\jean-yves\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jean-yves\\Source\\Repos\\eiin839\\TP1\\Echo\\ChatClient\\obj\\",
+      "projectPath": "D:\\user\\julien\\Documents\\Semestre 8\\Web\\TP1\\Echo\\ChatClient\\EchoClient.csproj",
+      "packagesPath": "C:\\Users\\julien\\.nuget\\packages\\",
+      "outputPath": "D:\\user\\julien\\Documents\\Semestre 8\\Web\\TP1\\Echo\\ChatClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "D:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\jean-yves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\julien\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],

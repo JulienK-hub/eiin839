@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tâche-TCP Clients Telnet and Web",
+      "appliesTo": "TP1/Echo/TCP Clients Telnet and Web.sln",
+      "type": "launch"
+    }
+  ]
+}

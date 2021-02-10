@@ -1,0 +1,6 @@
+Q2: affiche l'xml du contenu de la page
+
+Q3: 36 inshallah
+
+Q4: 4: 9 requêtes 1,35ms avec cache
+   25 requêtes 1,6ms sans cache

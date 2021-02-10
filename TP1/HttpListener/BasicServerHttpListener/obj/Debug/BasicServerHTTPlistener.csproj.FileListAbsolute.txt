@@ -18,3 +18,10 @@ A:\Enseignement\HttpListener - Copie\HttpListener\BasicServerHttpListener\obj\De
 A:\Enseignement\HttpListener - Copie\HttpListener\BasicServerHttpListener\obj\Debug\BasicServerHTTPlistener.csproj.CoreCompileInputs.cache
 A:\Enseignement\HttpListener - Copie\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.exe
 A:\Enseignement\HttpListener - Copie\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.pdb
+D:\user\julien\Documents\Semestre 8\Web\TP1\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.exe.config
+D:\user\julien\Documents\Semestre 8\Web\TP1\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.exe
+D:\user\julien\Documents\Semestre 8\Web\TP1\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.pdb
+D:\user\julien\Documents\Semestre 8\Web\TP1\HttpListener\BasicServerHttpListener\obj\Debug\BasicServerHTTPlistener.csprojAssemblyReference.cache
+D:\user\julien\Documents\Semestre 8\Web\TP1\HttpListener\BasicServerHttpListener\obj\Debug\BasicServerHTTPlistener.csproj.CoreCompileInputs.cache
+D:\user\julien\Documents\Semestre 8\Web\TP1\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.exe
+D:\user\julien\Documents\Semestre 8\Web\TP1\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.pdb

@@ -48,6 +48,7 @@ namespace BasicServerHTTPlistener
                 // Note: The GetContext method blocks while waiting for a request.
                 HttpListenerContext context = listener.GetContext();
                 HttpListenerRequest request = context.Request;
+                Console.WriteLine(request.Headers);
 
                 string documentContents;
                 using (Stream receiveStream = request.InputStream)
