@@ -16,9 +16,10 @@ namespace ConsoleApp3
             this.headers = headers;
         }
 
-        internal void print()
+        internal void print(HttpRequestHeader request)
         {
-            Console.WriteLine(headers.ToString());
+            Console.WriteLine(request.ToString()+ " :");
+            Console.WriteLine(headers.Get(request.ToString())+ "\n");
         }
     }
 }

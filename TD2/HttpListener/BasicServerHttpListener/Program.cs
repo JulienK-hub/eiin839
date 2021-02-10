@@ -53,12 +53,13 @@ namespace BasicServerHTTPlistener
             }
 
             while (true)
-            {
+            {   
                 // Note: The GetContext method blocks while waiting for a request.
                 HttpListenerContext context = listener.GetContext();
                 HttpListenerRequest request = context.Request;
                 Header header = new Header(request.Headers);
-                header.print();
+                header.print(HttpRequestHeader.Accept);
+                header.print(HttpRequestHeader.Cookie);
 
 
                 string documentContents;
@@ -74,7 +75,7 @@ namespace BasicServerHTTPlistener
 
                 // Obtain a response object.
                 HttpListenerResponse response = context.Response;
-
+                
                 // Construct a response.
                 string responseString = "<HTML><BODY> Hello world!</BODY></HTML>";
                 byte[] buffer = System.Text.Encoding.UTF8.GetBytes(responseString);
