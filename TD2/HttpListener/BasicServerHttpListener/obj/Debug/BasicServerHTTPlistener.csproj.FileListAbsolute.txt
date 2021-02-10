@@ -42,3 +42,10 @@ D:\user\julien\Documents\Semestre 8\Web\TD1\HttpListener\BasicServerHttpListener
 D:\user\julien\Documents\Semestre 8\Web\TD1\HttpListener\BasicServerHttpListener\obj\Debug\BasicServerHTTPlistener.csproj.CoreCompileInputs.cache
 D:\user\julien\Documents\Semestre 8\Web\TD1\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.exe
 D:\user\julien\Documents\Semestre 8\Web\TD1\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.pdb
+D:\user\julien\Documents\Semestre 8\Web\TD2\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.exe.config
+D:\user\julien\Documents\Semestre 8\Web\TD2\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.exe
+D:\user\julien\Documents\Semestre 8\Web\TD2\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.pdb
+D:\user\julien\Documents\Semestre 8\Web\TD2\HttpListener\BasicServerHttpListener\obj\Debug\BasicServerHTTPlistener.csprojAssemblyReference.cache
+D:\user\julien\Documents\Semestre 8\Web\TD2\HttpListener\BasicServerHttpListener\obj\Debug\BasicServerHTTPlistener.csproj.CoreCompileInputs.cache
+D:\user\julien\Documents\Semestre 8\Web\TD2\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.exe
+D:\user\julien\Documents\Semestre 8\Web\TD2\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.pdb
