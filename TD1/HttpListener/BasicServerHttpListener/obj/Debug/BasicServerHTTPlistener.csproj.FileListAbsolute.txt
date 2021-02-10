@@ -18,6 +18,7 @@ A:\Enseignement\HttpListener - Copie\HttpListener\BasicServerHttpListener\obj\De
 A:\Enseignement\HttpListener - Copie\HttpListener\BasicServerHttpListener\obj\Debug\BasicServerHTTPlistener.csproj.CoreCompileInputs.cache
 A:\Enseignement\HttpListener - Copie\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.exe
 A:\Enseignement\HttpListener - Copie\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.pdb
+<<<<<<< HEAD:TP1/HttpListener/BasicServerHttpListener/obj/Debug/BasicServerHTTPlistener.csproj.FileListAbsolute.txt
 D:\user\julien\Documents\Semestre 8\Web\TP1\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.exe.config
 D:\user\julien\Documents\Semestre 8\Web\TP1\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.exe
 D:\user\julien\Documents\Semestre 8\Web\TP1\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.pdb
@@ -25,3 +26,12 @@ D:\user\julien\Documents\Semestre 8\Web\TP1\HttpListener\BasicServerHttpListener
 D:\user\julien\Documents\Semestre 8\Web\TP1\HttpListener\BasicServerHttpListener\obj\Debug\BasicServerHTTPlistener.csproj.CoreCompileInputs.cache
 D:\user\julien\Documents\Semestre 8\Web\TP1\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.exe
 D:\user\julien\Documents\Semestre 8\Web\TP1\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.pdb
+=======
+C:\Users\jean-yves\Source\Repos\benjaminvella\eiin839\TP1\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.exe.config
+C:\Users\jean-yves\Source\Repos\benjaminvella\eiin839\TP1\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.exe
+C:\Users\jean-yves\Source\Repos\benjaminvella\eiin839\TP1\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.pdb
+C:\Users\jean-yves\Source\Repos\benjaminvella\eiin839\TP1\HttpListener\BasicServerHttpListener\obj\Debug\BasicServerHTTPlistener.csprojAssemblyReference.cache
+C:\Users\jean-yves\Source\Repos\benjaminvella\eiin839\TP1\HttpListener\BasicServerHttpListener\obj\Debug\BasicServerHTTPlistener.csproj.CoreCompileInputs.cache
+C:\Users\jean-yves\Source\Repos\benjaminvella\eiin839\TP1\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.exe
+C:\Users\jean-yves\Source\Repos\benjaminvella\eiin839\TP1\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.pdb
+>>>>>>> upstream/main:TD1/HttpListener/BasicServerHttpListener/obj/Debug/BasicServerHTTPlistener.csproj.FileListAbsolute.txt
