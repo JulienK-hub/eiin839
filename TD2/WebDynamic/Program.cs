@@ -92,8 +92,10 @@ namespace WebDynamic
                 //Question 4:
                 // Exemple1: http://localhost:8080/a/MyMethod/addition?param1=2&param2=3
                 // Exemple2: http://localhost:8080/a/MyMethod/addition?param1=1&param2=5&param3=2&param4=3
+                // Exmeple3: http://localhost:8080/a/MyMethod/message?param1=Julien&param2=Marie&param3=Andr%C3%A9e
 
                 // Question 5:
+                // Exemple: http://localhost:8080/a/MyMethod/message?param1=Julien&param2=Marie&param3=Andr%C3%A9e
 
 
                 // parse path in url 

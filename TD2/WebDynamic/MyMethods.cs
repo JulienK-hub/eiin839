@@ -16,16 +16,18 @@ namespace WebDynamicMethods
 
         public string message(params string[] list)
         {
-            string res = "<HTML><BODY> Hello ";
+            string res = "<HTML><BODY> Hello";
+            string text = "";
             for (int i = 0; i < list.Length; i++)
             {
                 if (list[i] != null)
                 {
-                    res += list[i] + " et ";
+                    text += " et " + list[i];
                 }
 
             }
-            res += "</BODY></HTML>";
+            res += text.Substring(3);
+            res += " </BODY></HTML>";
             return res  ;
         }
         public string addition(params string[] list)
@@ -83,8 +85,6 @@ namespace WebDynamicMethods
                 using (StreamReader reader = process.StandardOutput)
                 {
                     string result = reader.ReadToEnd();
-                    Console.WriteLine(result);
-                    Console.ReadLine();
                     return result;
                 }
             }

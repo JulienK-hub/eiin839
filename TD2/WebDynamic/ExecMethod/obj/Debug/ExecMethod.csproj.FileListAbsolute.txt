@@ -4,3 +4,10 @@ D:\LUCAS\Polytech\SI4\2e Semestre\Soc\TD\Fork\eiin839\TD2\HttpListener\ExecMetho
 D:\LUCAS\Polytech\SI4\2e Semestre\Soc\TD\Fork\eiin839\TD2\HttpListener\ExecMethod\obj\Debug\ExecMethod.csproj.CoreCompileInputs.cache
 D:\LUCAS\Polytech\SI4\2e Semestre\Soc\TD\Fork\eiin839\TD2\HttpListener\ExecMethod\obj\Debug\ExecMethod.exe
 D:\LUCAS\Polytech\SI4\2e Semestre\Soc\TD\Fork\eiin839\TD2\HttpListener\ExecMethod\obj\Debug\ExecMethod.pdb
+D:\user\julien\Documents\Semestre 8\Web\TD2\WebDynamic\ExecMethod\bin\Debug\ExecMethod.exe.config
+D:\user\julien\Documents\Semestre 8\Web\TD2\WebDynamic\ExecMethod\bin\Debug\ExecMethod.exe
+D:\user\julien\Documents\Semestre 8\Web\TD2\WebDynamic\ExecMethod\bin\Debug\ExecMethod.pdb
+D:\user\julien\Documents\Semestre 8\Web\TD2\WebDynamic\ExecMethod\obj\Debug\ExecMethod.csprojAssemblyReference.cache
+D:\user\julien\Documents\Semestre 8\Web\TD2\WebDynamic\ExecMethod\obj\Debug\ExecMethod.csproj.CoreCompileInputs.cache
+D:\user\julien\Documents\Semestre 8\Web\TD2\WebDynamic\ExecMethod\obj\Debug\ExecMethod.exe
+D:\user\julien\Documents\Semestre 8\Web\TD2\WebDynamic\ExecMethod\obj\Debug\ExecMethod.pdb

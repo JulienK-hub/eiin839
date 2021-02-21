@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TD2",
+    "\\TD2\\WebDynamic",
+    "\\TD2\\WebDynamic\\ExecMethod"
   ],
+  "SelectedNode": "\\TD2\\WebDynamic\\WebDynamic.sln",
   "PreviewInSolutionExplorer": false
 }

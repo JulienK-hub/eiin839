@@ -7,15 +7,18 @@ namespace ExecMethod
         static void Main(string[] args)
         {
             if (args.Length >0){
-             string res = "<HTML><BODY> Hello ";
-                for (int i = 0; i < args.Length; i++)
+             string res = "<HTML><BODY> Hello";
+            string text = "";
+            for (int i = 0; i < args.Length; i++)
+            {
+                if (args[i] != null)
                 {
-                    if (args[i] != null)
-                    {
-                        res += args[i] + " et ";
-                    }
+                    text += " et " + args[i];
                 }
-                res += "</BODY></HTML>";
+
+            }
+            res += text.Substring(3);
+            res += " </BODY></HTML>";
             Console.WriteLine(res);
            
             
