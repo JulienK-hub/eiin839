@@ -1,13 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\TP1",
-    "\\TP1\\Echo",
-    "\\TP1\\Echo\\ChatClient",
-    "\\TP1\\Echo\\ChatServer",
-    "\\TP1\\HttpListener",
-    "\\TP1\\HttpListener\\BasicServerHttpListener"
+    ""
   ],
-  "SelectedNode": "\\TP1\\HttpListener\\HttpListener.sln",
   "PreviewInSolutionExplorer": false
 }

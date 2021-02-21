@@ -5,6 +5,16 @@
       "taskLabel": "tâche-TCP Clients Telnet and Web",
       "appliesTo": "TP1/Echo/TCP Clients Telnet and Web.sln",
       "type": "launch"
+    },
+    {
+      "taskLabel": "tâche-WebDynamic",
+      "appliesTo": "TD2/WebDynamic.sln",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tâche-WebDynamic",
+      "appliesTo": "TD2/WebDynamic.sln",
+      "type": "launch"
     }
   ]
 }

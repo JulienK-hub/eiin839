@@ -4,6 +4,8 @@ using System.IO;
 using System.Net;
 using System.Text;
 using System.Web;
+using System.Reflection;
+
 
 namespace BasicServerHTTPlistener
 {
@@ -89,9 +91,30 @@ namespace BasicServerHTTPlistener
                 // parse path in url 
                 foreach (string str in request.Url.Segments)
                 {
-                    Console.WriteLine(str);
-                }
+                        Console.WriteLine(str);
 
+                        Type type = typeof(BasicWebServer.MyMethods);
+                        MethodInfo method = type.GetMethod(str);
+                        BasicWebServer.MyMethods c = new BasicWebServer.MyMethods();
+                        if (method != null)
+                        {
+                            Console.WriteLine("\nméthode appelée: " + str);
+                            int nbParams = 4; //nombre de paramètres max traités dans l'URL
+                            string[] array1 = new string[nbParams];
+                            for (int i =1; i <= nbParams; i++)
+                            { // boucle qui parse les paramètres dans une liste
+                                string var = HttpUtility.ParseQueryString(request.Url.Query).Get("param" + i );
+                                array1[i-1] = HttpUtility.ParseQueryString(request.Url.Query).Get("param" + i);
+                            }
+
+                        string[][] array2 = new string[][] { array1 };
+                        string result = (string)method.Invoke(c, array2);
+                        Console.WriteLine("résultat de la méthode : " + result + "\n");
+                            
+                        }
+                }
+                
+                
                 //get params un url. After ? and between &
 
                 Console.WriteLine(request.Url.Query);

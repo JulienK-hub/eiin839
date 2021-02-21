@@ -1,0 +1,5 @@
+Question 2:
+
+
+Les paramètres après le caractère "?" sont ceux de la méthode à exécuter
+le reste sert à trouver la méthode à utiliser
