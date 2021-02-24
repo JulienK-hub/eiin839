@@ -3,3 +3,18 @@ Question 2:
 
 Les paramètres après le caractère "?" sont ceux de la méthode à exécuter
 le reste sert à trouver la méthode à utiliser
+
+TD3:
+List the contracts of JCDecaux.
+https://api.jcdecaux.com/vls/v1/contracts?apiKey=39571097c1e9b087e872bf8c82780a117c246f85	
+
+Choose a contract and get the corresponding list of stations 
+https://api.jcdecaux.com/vls/v1/stations?contract=marseille&apiKey=39571097c1e9b087e872bf8c82780a117c246f85
+
+Choose a station and get the corresponding news
+https://api.jcdecaux.com/vls/v1/stations/9087?contract=marseille&apiKey=39571097c1e9b087e872bf8c82780a117c246f85
+
+Choose a contract and get the corresponding list of Bikes Parks*
+https://api.jcdecaux.com/vls/v1/contracts/marseille/parks?apiKey=39571097c1e9b087e872bf8c82780a117c246f85
+
+Choose a Bikes Park* and get the corresponding retrieving information.
