@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Programme2": {
+      "commandName": "Project",
+      "commandLineArgs": "marseille"
+    }
+  }
+}
