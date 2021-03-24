@@ -1,11 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\TD2\\HttpListener",
-    "\\TD2\\WebDynamic",
-    "\\TD2\\WebDynamic\\ExecMethod",
-    "\\TD3"
+    "\\SOAPWebServiceClient",
+    "\\TD3",
+    "\\TD3\\RestApiClient",
+    "\\TD3\\RestApiClient\\programme1",
+    "\\TD3\\RestApiClient\\Programme2",
+    "\\webFront",
+    "\\webFront\\helper",
+    "\\webFront\\helper\\exercise2",
+    "\\webFront\\materials"
   ],
-  "SelectedNode": "\\TD3\\README.md",
+  "SelectedNode": "\\SOAPWebServiceClient\\SOAPWebServiceClient.sln",
   "PreviewInSolutionExplorer": false
 }
