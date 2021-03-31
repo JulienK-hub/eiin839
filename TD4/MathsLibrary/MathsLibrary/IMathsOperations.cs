@@ -22,15 +22,15 @@ namespace MathsLibrary
 
         [OperationContract]
         [WebInvoke(UriTemplate = "multiply?x={value1}&y={value2}", Method = "GET", BodyStyle = WebMessageBodyStyle.Wrapped, ResponseFormat = WebMessageFormat.Json)]
-        int multiply(int value1, int value2);
+        int multiply(string value1, string value2);
 
         [OperationContract]
         [WebInvoke(UriTemplate = "subtract?x={value1}&y={value2}", Method = "GET", BodyStyle = WebMessageBodyStyle.Wrapped, ResponseFormat = WebMessageFormat.Json)]
-        int subtract(int value1, int value2);
+        int subtract(string value1, string value2);
 
         [OperationContract]
         [WebInvoke(UriTemplate = "divide?x={value1}&y={value2}", Method = "GET", BodyStyle = WebMessageBodyStyle.Wrapped, ResponseFormat = WebMessageFormat.Json)]
-        float divide(int value1, int value2);
+        float divide(string value1, string value2);
 
         // TODO: ajoutez vos opérations de service ici
     }

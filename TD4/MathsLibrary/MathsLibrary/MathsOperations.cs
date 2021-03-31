@@ -18,17 +18,17 @@ namespace MathsLibrary
         {
             return int.Parse(value1) + int.Parse(value2);
         }
-        public int multiply(int value1, int value2)
+        public int multiply(string value1, string value2)
         {
-            return value1 * value2;
+            return int.Parse(value1) * int.Parse(value2);
         }
-        public int subtract(int value1, int value2)
+        public int subtract(string value1, string value2)
         {
-            return value1 - value2;
+            return int.Parse(value1) - int.Parse(value2);
         }
-        public float divide(int value1, int value2)
+        public float divide(string value1, string value2)
         {
-            return value1 / value2;
+            return int.Parse(value1) / int.Parse(value2);
         }
 
     }
